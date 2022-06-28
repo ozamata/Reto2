@@ -168,8 +168,8 @@ cython_debug/
 #.idea/
 
 
-firebaseConfig.py
-token.json
+firebaseConfig.py/
+token.json/
 
-variables_entorno_flask
-env
+variables_entorno_flask.txt/
+env/
