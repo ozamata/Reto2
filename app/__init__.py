@@ -22,5 +22,6 @@ def create_app():
 
     app.register_blueprint(portafolio)
     app.register_blueprint(admin)
+    # app.register_blueprint(contacto)
 
     return app

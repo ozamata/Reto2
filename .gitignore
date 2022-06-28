@@ -169,4 +169,7 @@ cython_debug/
 
 
 firebaseConfig.py
-toke.json
+token.json
+
+variables_entorno_flask
+env
